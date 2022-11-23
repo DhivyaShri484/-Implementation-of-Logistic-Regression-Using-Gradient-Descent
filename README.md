@@ -109,10 +109,10 @@ np.mean(predict(res.x,X)==y)
 ~~~
 
 ## Output:
-![image](https://user-images.githubusercontent.com/94505585/203521863-22575fcf-ce85-4b2e-b6cb-52d4567ab9d1.png)
-![image](https://user-images.githubusercontent.com/94505585/203521898-2ca168c7-3d49-415d-b1b1-ada040108d05.png)
-![image](https://user-images.githubusercontent.com/94505585/203521952-e433370b-6311-4df3-9d9a-23999c654663.png)
-![image](https://user-images.githubusercontent.com/94505585/203521970-fde9b6b7-dfec-49e9-8a77-fced2aa4e666.png)
+![image](https://user-images.githubusercontent.com/94505585/203523413-1d692c11-a33a-499a-927d-15d53e5f1cfa.png)
+![image](https://user-images.githubusercontent.com/94505585/203523463-b4e8a018-ce86-4b6e-a3fd-39b436854b10.png)
+![Picture3](https://user-images.githubusercontent.com/94505585/203523825-a31ed642-0f4d-4bce-9d72-10130b73dc93.png)
+![Picture4](https://user-images.githubusercontent.com/94505585/203523848-d9452057-2d67-496e-8833-194a9e522c06.png)
 ![Picture1](https://user-images.githubusercontent.com/94505585/203522887-90c716f4-59da-41dd-aa38-5b761e8865f2.png)
 ![Picture2](https://user-images.githubusercontent.com/94505585/203522906-b8f533a5-b4bf-4a27-81c7-2b6c69114c6a.png)
 
